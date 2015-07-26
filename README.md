@@ -1,2 +1,2 @@
 # BNG
-BNG Jewellery &amp; Handicraft site
+BNG Jewellery &amp; Handcraft site
